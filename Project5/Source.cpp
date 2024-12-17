@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+	// Multiplication table
 	int number; 
 	int x ;
 	int z;
