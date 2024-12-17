@@ -17,8 +17,6 @@ int main()
 		z = number;
 		for (int n = 1;n <= 20;n++)
 		{
-			if (n == 5)
-				break;
 			for (int i = 1;i <= 5;i++)
 			{
 				number = z;
